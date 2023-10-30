@@ -1,0 +1,11 @@
+{
+  "name": "somos-la-resistencia",
+  "version": "1.0.0",
+  "description": "Para hombres que quieren ser mejores hombres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
